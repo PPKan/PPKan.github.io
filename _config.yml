@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: petervsjim@gmail.com
 description: "嗨，你們好呀"
 keyword: ""
-url: "https://ppkan.github.io/p-blog" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://ppkan.github.io" # your host, for absolute URL
+baseurl: "/p-blog" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
