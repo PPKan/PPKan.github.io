@@ -68,7 +68,7 @@ netease_comment: false
 # Baidu Analytics
 # ba_track_id: [your track id]
 
-# Google Analytics # deprecated
+# Google Analytics - deprecated, using g-tag in footer instead
 # ga_track_id: "" # Format: UA-xxxxxx-xx
 # ga_domain: # Format: xxxx.xx
 
