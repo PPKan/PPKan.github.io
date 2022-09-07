@@ -1,6 +1,6 @@
 # Site settings
 title: P Blog
-SEOTitle: Peter的部落格 | Peter Blog
+SEOTitle: 定中的部落格 | Peter Blog
 header-img: img/home-bg.jpg
 email: petervsjim@gmail.com
 description: "嗨，你們好呀"
@@ -17,7 +17,7 @@ RSS: false
 # zhihu_username: huxpro
 github_username: PPKan
 twitter_username: petervsjim
-facebook_username:  petervsjim
+facebook_username:  kantingchung
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
