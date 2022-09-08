@@ -6,7 +6,7 @@ email: petervsjim@gmail.com
 description: "嗨，你們好呀"
 keyword: "web, web dev, translation, japanese, mandarin, english, design"
 url: "https://ppkan.github.io" # your host, for absolute URL
-baseurl: "/p-blog" # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
