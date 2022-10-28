@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "thoughts on complete beginner path"
+title: "Thoughts on TryHackMe Complete Beginner Path"
 subtitle: "DO JR PATH!"
 date: 2022-10-28
 author: "Peter"
