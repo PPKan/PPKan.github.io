@@ -14,7 +14,7 @@ tags: [日記, 程式, 資安]
 The Update make the post looking messy. The main idea is JR. Pentester is not good as I thought before.
 
 > Alert:
-This path is considered **deprecated** by the THM team; however, after I have a few rooms in JR. Pentester path, I do not think the jr. pentester path is good for beginners descipte the content are more concentrate, but it covers too much difficult stuffs at the beginning. So, I'll suggest complete beginner's path for now. And I'll make my own suggestion after I finish JR. Pentester path after a while then.
+This path is considered **deprecated** by the THM team; however, after I have a few rooms in JR. Pentester path, I do not think the jr. pentester path is good for beginners desipte the content are more concentrated, but it covers too much difficult stuffs at the beginning. So, I'll suggest complete beginner's path for now. And I'll make my own suggestion after I finish JR. Pentester path after a while then.
 
 > TL;DR:  
 Complete Beginner Path is great, but some of the contents are hard to follow if you're a complete beginner. You may need to read some walkthroughs and find other sources instead of finishing the room with only the room content.
