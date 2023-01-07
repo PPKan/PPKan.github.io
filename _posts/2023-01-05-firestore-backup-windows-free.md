@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "如何自動匯出firestore資料(免費) -- 使用 firestore-export-import 及 windows"
-subtitle: ""
-date: 2023-01-17
+title: "如何自動匯出firestore資料(免費)"
+subtitle: "使用 firestore-export-import 及 windows"
+date: 2023-01-07
 author: "Peter"
 header-img: "img/post-bg-2022.jpg"
 tags: [程式, web dev]
 ---
 
 這篇文章將講解如何進行firestore的備份。
-
-[toc]
 
 # 前言
 
