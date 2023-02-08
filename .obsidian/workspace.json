@@ -11,8 +11,12 @@
             "id": "847a8a9c2630b070",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-02-08-sosimple-walkthrough.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-02-08-sosimple-walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-02-08-sosimple-walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-02-08-sosimple-walkthrough.md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1f498a5cc85ae5f1",
+  "active": "847a8a9c2630b070",
   "lastOpenFiles": [
+    "img/post-bg-hack.png",
+    "img/in-post/sosimple/Pasted.md",
     "_posts/2023-02-08-sosimple-walkthrough.md",
     "_posts/2023-01-05-firestore-backup-windows-free.md",
-    "img/in-post/sosimple/Pasted.md",
     "Pasted image 20230207195730.png.md",
     "_posts/未命名.md",
     "未命名.md",
     "img/bg-me-2022.jpg",
     "img/bg-walle.jpg",
-    "img/contact-bg.jpg",
-    "img/home-bg-art.jpg"
+    "img/contact-bg.jpg"
   ]
 }

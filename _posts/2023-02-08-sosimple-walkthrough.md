@@ -4,7 +4,7 @@ title: "SoSimple Walkthrough"
 subtitle: "a good pg play box!"
 date: 2023-02-08
 author: "Peter"
-header-img: "img/post-bg-hack.jpg"
+header-img: "img/post-bg-hack.png"
 tags: [walkthrough]
 ---
 
