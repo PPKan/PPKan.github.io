@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "a195f2c43fc5f3ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5fe23ddf1477d08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "847a8a9c2630b070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-01-05-firestore-backup-windows-free.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06b14ac0b45f7b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-02-08-sosimple-walkthrough.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "582b3edf290f4670",
+    "type": "split",
+    "children": [
+      {
+        "id": "d66d52e667c5af8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f498a5cc85ae5f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25b4c018be361b67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2233b5293bf7369",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf5a674258667b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "786ead607b012bba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e7e1d39e5569896",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-02-08-sosimple-walkthrough.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ffe73170c685b27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-02-08-sosimple-walkthrough.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79c126263391c8ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec96f5630579cc18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-02-08-sosimple-walkthrough.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "06b14ac0b45f7b6c",
+  "lastOpenFiles": [
+    "Pasted image 20230207195730.png.md",
+    "_posts/2023-02-08-sosimple-walkthrough.md",
+    "_posts/未命名.md",
+    "未命名.md",
+    "_posts/2023-01-05-firestore-backup-windows-free.md",
+    "img/bg-me-2022.jpg",
+    "img/bg-walle.jpg",
+    "img/contact-bg.jpg",
+    "img/home-bg-art.jpg",
+    "img/home-bg-geek.jpg"
+  ]
+}
