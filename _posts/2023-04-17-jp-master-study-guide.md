@@ -183,8 +183,16 @@ youtube我推薦上面的日本史的作者的頻道，[這是他的網站][8]�
 
 這三點進行，其中的文化史跟文學史的讀書方法有很多，但我覺得只要把脈絡理解清楚我想拿到好分數應該都不難。對於研究計畫的話，書上已經把能講的都講了，如果還是不太確定怎麼寫的話可以問問學校的教授，應該會很有幫助。
 
-感謝大家的閱讀，我把資料整理如下，有興趣的可以點個star收藏！
+感謝大家的閱讀，我把資料整理在下面網頁，有興趣的可以點個star收藏！
+https://github.com/PPKan/JP-Master-Study-Guide
 
+1. 日文所.xlsx
+2. 綜合筆記(上).md
+3. 綜合筆記(下).md
+
+日文所的excel檔案是我之前在google spredsheet上面下載下來的，我主要的練習都是在上面進行，可以參考看看。
+
+綜合筆記是我把我練習完的結果跟知識整理在一起，因為我習慣用hackmd的關係檔案太大會跑很慢，所以我拆成了兩份。有興趣的同學可以參考看看，不過我還是強烈建議整理自己的筆記，畢竟我的筆記只有我關心的內容，考試考的東西包羅萬象。
 
 [1]: https://www.books.com.tw/products/0010484675
 [2]: https://www.books.com.tw/products/M010116565?loc=M_0075__1005
@@ -195,7 +203,5 @@ youtube我推薦上面的日本史的作者的頻道，[這是他的網站][8]�
 [7]: https://www.amazon.co.jp/-/en/%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%82%AD%E3%83%BC%E3%83%B3-ebook/dp/B08CZ7BMR3
 [8]: https://mundisensei.com/lesson-videos-japan/
 [9]: https://www.amazon.co.jp/%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%82%8F%E3%81%8B%E3%82%8B-%E8%AB%96%E6%96%87%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9-%E8%AC%9B%E8%AB%87%E7%A4%BE%E7%8F%BE%E4%BB%A3%E6%96%B0%E6%9B%B8-%E5%B0%8F%E7%86%8A%E8%8B%B1%E4%BA%8C-ebook/dp/B09ZB8KZT2
-![](https://i.imgur.com/r7J1EOV.png)
-
 
 
