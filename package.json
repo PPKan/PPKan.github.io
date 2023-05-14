@@ -3,10 +3,10 @@
     "title": "Peter Blog",
     "author": "Peter <petervsjim@gmail.com>",
     "version": "1.0.0",
-    "homepage": "http://ppkan.github.io",
+    "homepage": "http://peterkan.tw",
     "repository": {
         "type": "git",
-        "url": "https://ppkan.github.io/p-blog/"
+        "url": "https://github.com/PPKan/PPKan.github.io"
     },
     "bugs": "",
     "devDependencies": {
