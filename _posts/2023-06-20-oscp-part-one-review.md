@@ -24,7 +24,7 @@ tags: [資安, oscp]
 
 > 更多關於TryHackMe的說明可以參照[之前的文章][4]。可以總結為雖然有點小瑕疵，但整體編排著實可以用很便宜的價格讓人入門資安領域。
 
-![TryHackMe complete beginner 說明圖片](https://hackmd.io/_uploads/BJ1106APn.png)
+![TryHackMe complete beginner 說明圖片](https://i.imgur.com/picfkfE.png)
 
 這也是我學習到現在，儘管覺得TryHackMe的網站做得有點陽春、裡面的編排也欠缺了一點巧思但我還是很喜歡他們的原因，因為他們真真正正地知道一個初學者想學的是什麼，以及怎麼入門這個領域。
 
@@ -34,7 +34,7 @@ tags: [資安, oscp]
 
 最多人在網路講的就是，在開始oscp之前應該先去做TJNull's List，這個清單是一份由資安大老[TJNull][9]所推薦的練習靶機 *(註: 靶機指的是模擬滲透過程用來練習的虛擬機的代稱)* 清單，而在我實際去嘗試了幾個之後，覺得人生好難，我學了那麼久結果沒有一個可以不用看答案拿到旗子的。
 
-![Screen shot on TJNull's list](https://hackmd.io/_uploads/r1b0lA0Dn.png)
+![Screen shot on TJNull's list](https://i.imgur.com/dhGjImk.png)
 
 因為碰壁的關係，我這時候花了很多時間在找資源，其中我覺得過渡期我覺得比起做什麼，有些比較重要的是培養一些心態，我在這段過程中了解了：
 1. 這時候已經準備好要開始面對一些簡單的靶機了，勇敢面對!
@@ -83,11 +83,11 @@ oscp的課程分成兩個部分，課程本身(影片+文字+練習題)與challe
 
 oscp的考試是著名的實務取向，我想這也可以從他們的訓練中窺得一二。課程裡面會教怎麼執行客戶端攻擊，而同樣的技術其實在ctf(滲透練習)中並不多見 *(還是是我孤陋寡聞?)* 但課程同樣放了不少心力在這上面。
 
-![oscp client side attack syllabus](https://hackmd.io/_uploads/Hy_Gx1yd2.png)
+![oscp client side attack syllabus](https://i.imgur.com/VQMyLc4.png)
 
 我也很喜歡課程教導了很多如何寫報告的技巧，我也很開心我這樣寫文章的人其實除了進行滲透測試以外，還可以在文字上面一展長才，而且我去看了一下offsec本家提供的滲透測試服務，他們有特別提到任何溝通都是透過工程師直接聯繫，我感覺我很適合！！我還能對日本、歐美客戶！！
 
-![offsec pentest service description](https://hackmd.io/_uploads/ByymFykd3.png)
+![offsec pentest service description](https://i.imgur.com/JdXnG6b.png)
 
 
 當然，關於課程內容因為課程規定我不能透漏，我只能說課程完美的指導了如何成為一名滲透測試專家(儘管我還沒找相關工作，這樣有點像在大談)。也讓我們這種野路子的自學仔有了一個超級完美的藍圖知道滲透測試中各個項目要怎麼進行，並且可以怎麼進一步地去學習。
