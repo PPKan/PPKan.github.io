@@ -5,7 +5,7 @@ subtitle: "從金曲獎來探討台語歌的文化連結"
 date: 2023-07-02
 author: "Peter"
 header-img: "img/post-bg-jp.jpg"
-tags: [音樂 台語]
+tags: [音樂, 台語]
 ---
 
 
