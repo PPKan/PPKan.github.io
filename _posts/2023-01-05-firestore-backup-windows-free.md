@@ -4,7 +4,7 @@ title: "如何自動匯出firestore資料(免費)"
 subtitle: "使用 firestore-export-import 及 windows"
 date: 2023-01-07
 author: "Peter"
-header-img: "img/post-bg-2022.jpg"
+header-img: "img/post-bg-hack.jpg"
 tags: [程式, web dev]
 ---
 

@@ -4,7 +4,7 @@ title: "用godjj的steam帳號被盜事件淺談個人資安防治"
 subtitle: ""
 date: 2023-06-18
 author: "Peter"
-header-img: "img/post-bg-2022.jpg"
+header-img: "img/post-bg-hack.jpg"
 tags: [資安]
 ---
 

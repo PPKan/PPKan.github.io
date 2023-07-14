@@ -4,7 +4,7 @@ title: "日文研究所考試心得"
 subtitle: "112年台、政大正取"
 date: 2023-03-15
 author: "Peter"
-header-img: "img/post-bg-2022.jpg"
+header-img: "img/post-bg-jp.jpg"
 tags: [日文所]
 ---
 

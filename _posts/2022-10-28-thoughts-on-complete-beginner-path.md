@@ -4,7 +4,7 @@ title: "Thoughts on TryHackMe Complete Beginner Path"
 subtitle: "stick to it!"
 date: 2022-10-28
 author: "Peter"
-header-img: "img/post-bg-2022.jpg"
+header-img: "img/post-bg-hack.jpg"
 tags: [日記, 程式, 資安]
 ---
 

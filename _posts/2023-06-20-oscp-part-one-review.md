@@ -4,7 +4,7 @@ title: "OSCP 課程心得 part1 -- Challenge lab開始前的紀錄"
 subtitle: "PEN-200-2023的課程寫得真好，完成度真高阿"
 date: 2023-06-20
 author: "Peter"
-header-img: "img/post-bg-2022.jpg"
+header-img: "img/post-bg-hack.jpg"
 tags: [資安, oscp]
 ---
 

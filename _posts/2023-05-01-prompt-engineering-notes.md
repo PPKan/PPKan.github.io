@@ -4,7 +4,7 @@ title: "Deeplearning.ai 提示詞工程課程心得 -- 為什麼每個2023的人
 subtitle: "Reviews of ChatGPT Prompt Engineering for Developers from Deeplearning.ai -- Why Everyone should take a look at this course"
 date: 2023-05-01
 author: "Peter"
-header-img: "img/post-bg-2022.jpg"
+header-img: "img/post-bg-hack.jpg"
 tags: [AI, chatGPT, LLMs]
 ---
 
