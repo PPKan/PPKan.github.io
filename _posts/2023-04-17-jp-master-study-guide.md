@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "日文研究所考試心得"
-subtitle: "112年台、政大正取"
+subtitle: "112年台、政大雙正一"
 date: 2023-03-15
 author: "Peter"
 header-img: "img/post-bg-jp.jpg"
