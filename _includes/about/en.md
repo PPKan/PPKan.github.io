@@ -1,5 +1,6 @@
-Greetings, this is Peter Kan, currently based in Kaohsiung, Taiwan.
+Greetings, this is Peter Kan from Kaohsiung, Taiwan.
 
-Currently working on OSCP!
+Currently studying master program of Japanese literature in NTU, Taipei.
+Dedicating on infosec, penetration testing, passed OSCP.
 
-Feel free to contact me for anything.
+Feel free to contact me for anything like interns or jobs.
