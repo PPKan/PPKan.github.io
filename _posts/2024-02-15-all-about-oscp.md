@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "[HackTheBox] Servmon Writeup"
-subtitle: "少數有防毒軟體的靶機，但我沒有做AV Evation嘿嘿"
-date: 2024-01-15
+title: "關於取得OSCP的一切"
+subtitle: "系列文中的第三部曲，關於OSCP"
+date: 2024-02-15
 author: "Peter"
 header-img: "img/post-bg-2023.jpg"
-tags: [資安, writeup, hackthebox]
+tags: [資安, oscp]
 ---
 # 關於取得OSCP的一切
 
