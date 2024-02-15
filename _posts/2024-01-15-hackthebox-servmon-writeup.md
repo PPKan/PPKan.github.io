@@ -4,7 +4,7 @@ title: "[HackTheBox] Servmon Writeup"
 subtitle: "少數有防毒軟體的靶機，但我沒有做AV Evation嘿嘿"
 date: 2024-01-15
 author: "Peter"
-header-img: "img/post-bg-2023.jpg"
+header-img: "img/post-bg-hack.jpg"
 tags: [資安, writeup, hackthebox]
 ---
 

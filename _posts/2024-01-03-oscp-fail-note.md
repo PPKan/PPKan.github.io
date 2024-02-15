@@ -4,7 +4,7 @@ title: "OSCP第一次考試就不及格"
 subtitle: "分享一些考試中學到的知識"
 date: 2024-01-03
 author: "Peter"
-header-img: "img/post-bg-2023.jpg"
+header-img: "img/post-bg-hack.jpg"
 tags: [資安, oscp]
 ---
 

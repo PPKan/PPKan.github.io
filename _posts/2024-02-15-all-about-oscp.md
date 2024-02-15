@@ -4,7 +4,7 @@ title: "關於取得OSCP的一切"
 subtitle: "系列文中的第三部曲，關於OSCP"
 date: 2024-02-15
 author: "Peter"
-header-img: "img/post-bg-2023.jpg"
+header-img: "img/post-bg-hack.jpg"
 tags: [資安, oscp]
 ---
 # 關於取得OSCP的一切
