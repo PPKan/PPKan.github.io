@@ -101,4 +101,5 @@ rl.question('請輸入一些文字：', async (input) => {
 
 ---
 
-感謝閱讀！ 歡迎訂閱 [YouTube頻道](https://www.youtube.com/@petervsjim) 與 追蹤粉絲專頁 [PP學習筆記](https://www.facebook.com/pplearningnote)！
+感謝閱讀！ 本文同步發布於粉絲專業 [PP學習筆記](https://www.facebook.com/pplearningnote)！
+歡迎訂閱 [YouTube頻道](https://www.youtube.com/@petervsjim) 與 追蹤粉絲專頁 [PP學習筆記](https://www.facebook.com/pplearningnote)！
