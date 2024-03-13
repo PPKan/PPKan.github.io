@@ -2,7 +2,7 @@
 layout: post
 title: "嘗試利用語言處理程式及AI輔助閱讀論文"
 subtitle: "為何電腦工具至今很難派上用場? 以及為什麼我停止這個專案了?"
-date: 2024-02-15
+date: 2024-03-14
 author: "Peter"
 header-img: "img/post-bg-jp.jpg"
 tags: [日文, 程式, AI]
