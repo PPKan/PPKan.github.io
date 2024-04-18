@@ -18,13 +18,13 @@ tags: [資安]
 
 # 第一章 資訊安全為何
 
-> 資訊安全 (通常簡稱資安) 是一組安全性程序和工具，可廣泛地保護敏感性企業資訊，以免發生使用不當、未經授權的存取、中斷或毀損等狀況。資安涵蓋實體和環境安全性、[存取控制](https://www.microsoft.com/zh-tw/security/business/security-101/what-is-access-control)以及網路安全性。它通常包含 [雲端存取安全性代理人](https://www.microsoft.com/zh-tw/security/business/security-101/what-is-a-cloud-access-security-broker-casb) (CASB)、驗證工具、端點偵測和回應 (EDR) 等技術，以及 DevOps (DevSecOps) 的安全性測試等等。 -- [什麼是資訊安全 (資安)？ | Microsoft 安全性](https://www.microsoft.com/zh-tw/security/business/security-101/what-is-information-security-infosec)
+> 資訊安全 (通常簡稱資安) 是一組安全性程序和工具，可廣泛地保護敏感性企業資訊，以免發生使用不當、未經授權的存取、中斷或毀損等狀況。資安涵蓋實體和環境安全性、[存取控制](https://www.microsoft.com/zh-tw/security/business/security-101/what-is-access-control)以及網路安全性。它通常包含 [雲端存取安全性代理人](https://www.microsoft.com/zh-tw/security/business/security-101/what-is-a-cloud-access-security-broker-casb) (CASB)、驗證工具、端點偵測和回應 (EDR) 等技術，以及 DevOps (DevSecOps) 的安全性測試等等。 -- [什麼是資訊安全 (資安)？ Microsoft 安全性](https://www.microsoft.com/zh-tw/security/business/security-101/what-is-information-security-infosec)
 
 從微軟的定義來看，我們可以看到資訊安全就是資訊的安全性的管理，資訊安全涵蓋的範圍很廣，我們一般常見的資安漏洞，外面的人可以存取到機敏資料是資訊安全的範疇，我們平常常聽到的網路釣魚詐騙，欺騙使用者輸入自己的資料，這也屬於資訊安全的一環。
 
 ![Types of Information Security](https://www.fortinet.com/content/fortinet-com/zh_tw/resources/cyberglossary/information-security/_jcr_content/par/c05_container_copy_c_732000812/par/c28_image.img.jpg/1701883489381.jpg)
 
-source: [What Is Information Security? | Fortinet](https://www.fortinet.com/tw/resources/cyberglossary/information-security)
+source: [What Is Information Security? Fortinet](https://www.fortinet.com/tw/resources/cyberglossary/information-security)
 
 從上面這張圖片我們可以一窺資訊安全這個大框架的一二，資訊安全細分下來的話會分為雲端安全、密碼管理、漏洞管理等等，我們常常聽到資訊安全會被區分為攻擊端(紅隊)與防禦端(藍隊)，卻常常疏忽了還有很多資安的從業人員會負責各式各樣的服務，舉例來說像是大企業都會有人員專們處理企業內部的驗證機制與密碼管理，這樣的管理職位也是在企業中不可忽略的一部分。  
 
@@ -82,8 +82,9 @@ source: [What Is Information Security? | Fortinet](https://www.fortinet.com/tw/r
 
 第一次寫這種文章，不算寫得特別多，後續有想法的話還會持續補充。下面是一篇關於我對於資安學習的意見，這也是進入第二節前我想特別講講的地方，第二節我們要來講怎麼學習資安，但為什麼要學資安屬實是一個很大的問題，甚至有了學資安不如其他領域的討論，關於資安學習的目的性我合併在下面的附錄，有興趣可以一併閱讀。
 
+---
 
-# 附錄：關於資訊安全的「學習」
+## 附錄：關於資訊安全的「學習」
 
 資安學習是一個很有趣的課題，講到為什麼學資安，有些人說是為了薪水、有的人只是單純為了好玩而進來這個領域。我曾經在一場免費的資安直播中看到如此討論是說，為了薪水學習資訊安全的話，還不如去走半導體或者是寫軟韌體，資安的「薪資排名」在這些人的眼中是如此的低下。
 
