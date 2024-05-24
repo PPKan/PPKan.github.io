@@ -361,7 +361,7 @@ pre.highlight {
   font-style: italic;
 }
 .highlight .ge {
-  font-style: italic;
+  /* font-style: italic; */
 }
 .highlight .gs {
   font-weight: 700;
