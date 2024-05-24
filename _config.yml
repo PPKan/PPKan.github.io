@@ -1,6 +1,6 @@
 # Site settings
 title: PPKan
-SEOTitle: PPKan PBlog
+SEOTitle: PP學習筆記
 header-img: img/home-bg.jpg
 email: petervsjim@gmail.com
 description: "Greetings guys"
@@ -16,7 +16,7 @@ RSS: false
 # weibo_username: huxpro
 # zhihu_username: huxpro
 github_username: PPKan
-twitter_username: petervsjim
+# twitter_username: petervsjim
 facebook_username:  pplearningnote
 #linkedin_username:  firstname-lastname-idxxxx
 
