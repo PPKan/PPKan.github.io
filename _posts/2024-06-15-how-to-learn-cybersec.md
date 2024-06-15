@@ -70,10 +70,8 @@ tags: [資安, OSCP]
 
 關於從零到一的過程，我接下來會推薦大家由 TryHackMe 的 [Complete Beginner](https://tryhackme.com/path/outline/beginner) 開始學習，我們也可以透過他的前置要求來看看我們的資訊安全的「一」是怎麼被定義的。
 
-> ### Prerequisites:
->
+> Prerequisites:
 > - You need a basic understanding of fundamental computing principles and a broad understanding of the different areas of cyber security to complete this pathway. If you do not already have these prerequisites, complete the [Pre-Security Pathway](https://tryhackme.com/path-action/presecurity/join) and [Intro To Cyber Security Pathway](https://tryhackme.com/path-action/introtocyber/join).
->
 > 先決條件：您需要具備基本的計算機原理知識和對網路安全不同領域的廣泛了解，以完成此學習路徑。如果您尚未具備這些先決條件，請先完成「預備資安學習路徑」和「網路安全簡介學習路徑」。
 
 我們可以看到 TryHackMe 的 Complete Beginner 並不是完全給入門者的內容，而是需要其他課程來學，這也是關於我們的從零到一的部分。如果看他的課綱會發現 Complete Beginner 跳過了很多關於網路跟系統的介紹，而這些內容就要到他的  [Pre-Security Pathway](https://tryhackme.com/path-action/presecurity/join) 跟 [Intro To Cyber Security Pathway](https://tryhackme.com/path-action/introtocyber/join) 裡面學，我個人也是推薦在踏入 Complete Beginner 之前先上這兩個環節，可以為將來打好蠻好的基礎。
