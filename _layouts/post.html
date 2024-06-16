@@ -118,18 +118,16 @@ layout: default
 {% endif %}
 
 {% if site.fb_comment %}
-<!-- fb 公共JS程式碼 start (一個網頁只需插入一次)-->
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v20.0" nonce="LPn15FE0"></script>
-{% endif %}
-
-<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-width="" data-numposts="5"></div>
-
-{% if site.fb_comment %}
-<script>
-    /* * * CONFIGURATION VARIABLES * * */
-    var fb_url = "{{site.url}}{{page.url}}";
-</script>
-<!-- fb 公共JS程式碼 end -->
+<div class="fb-comments-container">
+    <!-- fb 公共JS程式碼 start (一個網頁只需插入一次)-->
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v20.0" nonce="LPn15FE0"></script>
+    <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-width="100%" data-numposts="5"></div>
+    <script>
+        /* * * CONFIGURATION VARIABLES * * */
+        var fb_url = "{{site.url}}{{page.url}}";
+    </script>
+    <!-- fb 公共JS程式碼 end -->
+</div>
 {% endif %}
 
 {% if site.disqus_username %}
