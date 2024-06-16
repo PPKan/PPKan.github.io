@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "資安系列第三章 關於取得OSCP的一切"
-subtitle: "關於讓人又愛又恨的「入門」證照"
+title: "關於取得OSCP的一切"
+subtitle: "資安系列第三章"
 date: 2024-02-15
 author: "Peter"
 header-img: "img/post-bg-hack.jpg"
