@@ -46,3 +46,15 @@ multilingual: true
 </script>
 <!-- disqus 公共JS代码 end -->
 {% endif %}
+
+{% if site.fb_comment %}
+<!-- Facebook 评论框 start -->
+<div class="comment">
+    <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-width="100%" data-numposts="5"></div>
+</div>
+<!-- Facebook 评论框 end -->
+ 
+<!-- fb 公共JS程式碼 start (一個網頁只需插入一次)-->
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v20.0" nonce="XWlhH0eS"></script>
+<!-- fb 公共JS程式碼 end -->
+{% endif %}
