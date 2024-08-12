@@ -55,6 +55,23 @@ multilingual: true
 <!-- Facebook 评论框 end -->
  
 <!-- fb 公共JS程式碼 start (一個網頁只需插入一次)-->
-    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v20.0" nonce="XWlhH0eS"></script>
+<script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '1735643843847547',
+        xfbml      : true,
+        version    : 'v20.0'
+      });
+      FB.AppEvents.logPageView();
+    };
+  
+    (function(d, s, id){
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement(s); js.id = id;
+       js.src = "https://connect.facebook.net/en_US/sdk.js";
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));
+  </script>
 <!-- fb 公共JS程式碼 end -->
 {% endif %}
