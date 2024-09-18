@@ -15,14 +15,14 @@ tags: []
 
 這叫作firefox  
 
-![](/img/in-post/post-browser-intro--firefox.jpg)  
+![](/img/in-post/browserintro/firefox.png)  
 
 整體而言  
 
 功能瞞不錯的，有很多附加元件可以用 速度蠻快  
 THIS IS SAFARI  
 蘋果的瀏覽器 速度超快   可惜功能不多 適合一般  
-![](/img/in-post/post-browser-intro--safari.jpg)  
+![](/img/in-post/browserintro/safari.png)  
 
 來來來 這是最多人用的IE  (抱歉圖無法顯示)  
 請不要以為他多好   
