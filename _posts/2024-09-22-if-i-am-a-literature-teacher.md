@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "如果我是高中文學老師"
-subtitle: "試論文學的一與二"
+subtitle: "淺談文學的一與二"
 date: 2024-09-22
 author: "Peter"
 header-img: "img/post-bg-jp.jpg"
