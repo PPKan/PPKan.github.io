@@ -155,7 +155,17 @@ systemctl start openvpn@server
 systemctl status openvpn@server
 ```
 
-這個步驟理應不會出現報錯訊息。
+這個步驟理應不會出現報錯訊息。在這之後，還需要打開 `ip forward`，否則封包是無法轉過去的。我們在 `/etc/sysctl.conf` 取消註解下面這行。
+
+```
+net.ipv4.ip_forward=1
+```
+
+並執行下列指令以完成設定。
+
+```
+sysctl -p
+```
 
 ### 設定 Windows VM 的 IP
 
