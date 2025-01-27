@@ -30,7 +30,7 @@ Proxmox 的架設過程很容易，找一個 USB 把 ISO 燒錄到裡面即可�
 
 ### Wifi 設定
 
-wifi 設定參考：[TUTORIAL\ - HOWTO - Proxmox VE 8-1.2 Wifi w/ SNAT | Proxmox Support Forum](https://forum.proxmox.com/threads/howto-proxmox-ve-8-1-2-wifi-w-snat.142831/)，內容照著跑都不會有問題，不過文章中沒有提到的是，如果你要讓上面的 Welcome message 顯示網址更改的話，要跟著修改 `/etc/hosts` ，改完就好了。
+wifi 設定參考：[TUTORIAL\ - HOWTO - Proxmox VE 8-1.2 Wifi w/ SNAT Proxmox Support Forum](https://forum.proxmox.com/threads/howto-proxmox-ve-8-1-2-wifi-w-snat.142831/)，內容照著跑都不會有問題，不過文章中沒有提到的是，如果你要讓上面的 Welcome message 顯示網址更改的話，要跟著修改 `/etc/hosts` ，改完就好了。
 
 ### 將 ISO 檔存入伺服器
 
