@@ -46,7 +46,7 @@ tags: [資安, 惡意程式分析, lumma stealer, clickfix]
 **whois 查詢結果**
 ![whois-cloudflare](/img/in-post/movieLumma/image-14.png)
 
-當使用者點擊頁面上的 "I'm not a robot" 核取方塊時，網頁會執行一段 JavaScript，將一串惡意指令複製到使用者的剪貼簿中，並同時跳出一個彈窗，指示使用者按下 Ctrl + R（或 Cmd + R），然後貼上並執行指令。
+當使用者點擊頁面上的 "I'm not a robot" 核取方塊時，網頁會執行一段 JavaScript，將一串惡意指令複製到使用者的剪貼簿中，並同時跳出一個彈窗，指示使用者按下 `Win + r`，然後貼上並執行指令。
 
 **頁面誘騙使用者點擊「I'm not a robot」按鈕。**
 ![alt text](/img/in-post/movieLumma/image-9.png)
