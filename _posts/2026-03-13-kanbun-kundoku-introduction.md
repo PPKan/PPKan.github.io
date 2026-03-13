@@ -22,7 +22,9 @@ For Okurigana, it is the add-on words to the original text indicating the Japane
 > 世　有　伯樂　、　　然　　後　　有　千里　　馬　。  
 > 　ニ　リ　　　、　　　 ル　　ニ　　リ　　ノ　　　。
 
-Then is the Kaeriten (返り点), the sequence indicator to make the text readable in Japanese. There are several types of Kaeriten, including RE ten (レ点), 123 ten (一二三点), etc.
+By adding the Okurigana, we can now see how the text should be read in Japanese. However, we still need to rearrange the text to make it into proper Japanese.
+
+Then is the Kaeriten (返り点), the sequence indicator to make the text readable in Japanese. There are several types of Kaeriten, including RE ten (レ点), 123 ten (一二三点), etc. In this example, we use 123 ten to indicate the sequence of the text where the number indicates the order of the word to be read.
 
 > 　　　二　　一　　　　　　　　　　二　　　　　一  
 > 世　有　伯樂　、　　然　　後　　有　千里　　馬　。  
