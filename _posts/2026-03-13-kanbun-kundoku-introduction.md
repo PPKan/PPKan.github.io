@@ -20,8 +20,6 @@ There are two main components of Kanbun-Kundoku. The first is Okurigana, which i
 
 For Okurigana, it is the add-on words to the original text indicating the Japanese reading of the word. In this example, since we are using horizontal writing (Yokogaki, 横書き), the okurigana should be at the bottom right after the text, and should be written in Katakana (カタカナ).
 
-![Kanbun-Kundoku example](/img/in-post/kanbun-kundoku/image.png)
-
 Then is the Kaeriten (返り点), the sequence indicator to make the text readable in Japanese. There are several types of Kaeriten, including RE ten (レ点), 123 ten (一二三点), etc.
 
 > 　　　二　　一　　　　　　　　　　二　　　　　一  
@@ -40,4 +38,4 @@ Here is the final result of the translated Kanbun and its original text:
 > 世有伯樂、然後有千里馬。  
 > 世に伯樂有り、然る後に千里の馬有り。
 
-Recently been writing AI instructions about Kanbun-Kundoku so why not also share something here for those interested.
+![Kanbun-Kundoku example](/img/in-post/kanbun-kundoku/image.png)
