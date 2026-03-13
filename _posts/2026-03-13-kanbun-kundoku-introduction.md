@@ -14,9 +14,8 @@ Here is a simple sample text in Classical Chinese (Kanbun):
 
 > 世有伯樂、然後有千里馬。
 
-To interpret the text, we add three things to it. Take a note, we should not rearrange the Chinese text sequence, the sequence is indicated by Kaeriten (返り点).
 
-There are two main components of Kanbun-Kundoku. The first is Okurigana, which indicates the Japanese reading of the Chinese word, and the second is Kaeriten, which indicates the sequence of the text.
+There are two main components of Kanbun-Kundoku. The first is Okurigana (送り仮名), which indicates the Japanese reading of the Chinese word, and the second is Kaeriten (返り点), which indicates the sequence of the text. Take a note, we should not rearrange the Chinese text sequence, the sequence is indicated by Kaeriten.
 
 For Okurigana, it is the add-on words to the original text indicating the Japanese reading of the word. In this example, since we are using horizontal writing (Yokogaki, 横書き), the okurigana should be at the bottom right after the text, and should be written in Katakana (カタカナ).
 
