@@ -8,7 +8,7 @@ header-img: "img/post-bg-hack.jpg"
 tags: [資安, writeup, PortSwigger, SQL injection]
 ---
 
-大家好，最近回歸滲透之後從 PortSwigger Lab 開始練手，在練的過程將自己的心得跟 walk-through 寫下來，歡迎交流參考。
+大家好，這篇是關於 PortSwigger Lab#18 Blind SQLi 的 Write-Up，歡迎參考交流。
 
 ## 題目
 
